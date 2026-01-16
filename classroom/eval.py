@@ -1,0 +1,6 @@
+num = eval(input("Enter some numbers: "))
+print(type(num))
+num = eval(input("Enter some numbers: "))
+print(type(num))
+num = eval(input("Enter some numbers: "))
+print(type(num))
