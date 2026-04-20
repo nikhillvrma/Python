@@ -31,3 +31,4 @@ class MinHeap:
 if __name__ == "__main__":    
     sol = MinHeap()
     sol.main()
+    
